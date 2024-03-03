@@ -80,13 +80,22 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 
 ### PROGRAM 
- *212223100049
+ * 212223100049
  * S.Sajetha
  * CSE(Cyber SEcurity) and 1st year 
  
  
  
- 
+ ![image](https://github.com/Sajetha13/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/138849316/c2289f3a-9b0a-43e2-ac44-a69030682009)
+
+![image](https://github.com/Sajetha13/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/138849316/d683a6ed-4ef5-4081-b3ae-b5050d953569)
+
+![image](https://github.com/Sajetha13/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/138849316/cd57cfbc-7ed1-438f-84d4-f8c1c4da5dcc)
+
+![image](https://github.com/Sajetha13/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/138849316/574145f0-4e1c-4ea9-8e03-9c31fe92d1bb)
+
+
+
  
  
  
@@ -99,6 +108,8 @@ The easiest way to measure a resistive sensor is to connect one end to power and
  
  
 ![image](https://github.com/Sajetha13/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/138849316/a81a11e1-ba53-483c-b7ff-fe0660c0d97d)
+
+![image](https://github.com/Sajetha13/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/138849316/c55362a5-de05-4297-9606-d8c16adbe839)
 
 
 
@@ -113,11 +124,11 @@ xi is an individual value
 μ is the mean/expected value
 N is the total number of values
 
-For those unfamiliar with summation notation, the equation above may seem daunting, but when addressed through its individual components, this summation is not particularly complicated. The i=1 in the summation indicates the starting index, i.e. for the data set 1, 3, 4, 7, 8, i=1 would be 1, i=2 would be 3, and so on. Hence the summation notation simply means to perform the operation of (xi - μ)2 on each value through N, which in this case is 5 since there are 5 values in this data set.
+For those unfamiliar with summation notation, the equation above may seem daunting, but when addressed through its individual components, this summation is not particularly complicated. The i=1 in the summation indicates the starting index, i.e. for the data set 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, i=1 would be 1, i=2 would be 3, and so on. Hence the summation notation simply means to perform the operation of (xi - μ)2 on each value through N, which in this case is 5 since there are 5 values in this data set.
 
-EX:           μ = (1+3+4+7+8) / 5 = 4.6        
-σ = √[(1 - 4.6)2 + (3 - 4.6)2 + ... + (8 - 4.6)2)]/5
-σ = √(12.96 + 2.56 + 0.36 + 5.76 + 11.56)/5 = 2.577
+EX:           μ = (1+2+3+4+5+6+7+8+9+10) / 10 = 5.555        
+σ = √[(1 - 5.555)^2 + (2 - 5.555)^2 + (3 - 5.555)^2 + ... + (10 - 5.555)^2)]/10
+σ = √(12.638025 + 6.528025 + 2.418025 + 0.308025 + 0.198025 + 2.088025 + 5.978025 + 5.978025 + 11.868025)/10 = 0.8231661436
 
 
 
