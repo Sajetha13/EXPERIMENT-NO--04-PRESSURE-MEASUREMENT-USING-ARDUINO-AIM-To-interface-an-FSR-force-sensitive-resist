@@ -1,9 +1,10 @@
 # EXPERIMENT-NO--03-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
 
-# DATE :
-# NAME :
-# ROLLNUMBER :
-# DEPARTMENT
+# DATE : 1/3/2024
+# NAME : S.Sajetha
+# ROLLNUMBER : 212223100049
+# DEPARTMENT: CSE (CyberSecurity)
+
 ## AIM: 
 To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
  
@@ -79,9 +80,9 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 
 ### PROGRAM 
- *your roll no 
- * your name 
- * department and year 
+ *212223100049
+ * S.Sajetha
+ * CSE(Cyber SEcurity) and 1st year 
  
  
  
@@ -97,8 +98,8 @@ The easiest way to measure a resistive sensor is to connect one end to power and
  
  
  
+![image](https://github.com/Sajetha13/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/138849316/a81a11e1-ba53-483c-b7ff-fe0660c0d97d)
 
-![image](https://user-images.githubusercontent.com/36288975/188804653-a3154e8e-2655-46f2-9dcd-f425dd1ba109.png)
 
 
 ### TABLE -02 standard deviation table 
